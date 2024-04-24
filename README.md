@@ -1,1 +1,1 @@
-WEB FRONT-END
+Dönem proje geliştirme ödevimiz
